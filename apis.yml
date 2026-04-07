@@ -1,7 +1,12 @@
 aid: lithia-motors
-url: https://raw.githubusercontent.com/api-evangelist/lithia-motors/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/lithia-motors/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.lithia-motors.com
+description: >-
+  Lithia Motors is one of the largest automotive retailers in the United States, operating
+  new and used vehicle dealerships and providing related vehicle financing, service,
+  and parts.
