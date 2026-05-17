@@ -4,7 +4,7 @@ description: >-
   Lithia Motors is one of the largest automotive retailers in the United States,
   operating new and used vehicle dealerships and providing related vehicle
   financing, service, and parts.
-type: Contract
+kind: contract
 position: Consuming
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
