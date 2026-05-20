@@ -16,6 +16,10 @@ url: https://raw.githubusercontent.com/api-evangelist/lithia-motors/refs/heads/m
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/Lithia-Motors-OSS
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/lithia-motors
   - type: Website
     url: https://www.lithia-motors.com
 maintainers:
