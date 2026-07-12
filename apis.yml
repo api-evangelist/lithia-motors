@@ -22,6 +22,8 @@ common:
     url: https://www.linkedin.com/company/lithia-motors
   - type: Website
     url: https://www.lithia-motors.com
+  - url: https://www.lithia.com/blog/rss/index.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
