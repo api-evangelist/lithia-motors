@@ -1,0 +1,11 @@
+{
+  "repo": "lithia-motors",
+  "feeds": [
+    {
+      "source": "https://www.lithia.com/blog/rss/index.xml",
+      "error": "HTTPError"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 51
+}
