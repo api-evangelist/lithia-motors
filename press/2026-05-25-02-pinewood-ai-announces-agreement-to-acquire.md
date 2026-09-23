@@ -1,7 +1,9 @@
 ---
 title: PINEWOOD.AI ANNOUNCES AGREEMENT TO ACQUIRE ...
 url: https://www.prnewswire.com/news-releases/pinewoodai-announces-agreement-to-acquire-lithias-majority-stake-in-north-american-joint-venture-302475058.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lithia Motors" press release artificial intelligence'
 position: 2
 source: serpapi-google

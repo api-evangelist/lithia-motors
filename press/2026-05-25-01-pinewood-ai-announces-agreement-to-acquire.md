@@ -1,7 +1,9 @@
 ---
 title: PINEWOOD.AI ANNOUNCES AGREEMENT TO ACQUIRE ...
 url: https://investors.lithiadriveway.com/press-releases/mbktd3hjgn4lemupo2s
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Lithia Motors" press release artificial intelligence'
 position: 1
 source: serpapi-google
